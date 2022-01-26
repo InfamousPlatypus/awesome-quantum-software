@@ -135,8 +135,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 
 ## Quantum annealing
 
-**C++**
-- [C-to-D-Wave](https://github.com/lanl/c2dwave) - Compile a very small subset of C to a D-Wave Hamiltonian function
+
 
 **Go**
 - [edif2qmasm](https://github.com/lanl/edif2qmasm/) - Compile [Verilog](https://en.wikipedia.org/wiki/Verilog), [VHDL](https://en.wikipedia.org/wiki/VHDL), and other hardware-description languages to a D-Wave Hamiltonian function
@@ -347,6 +346,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [QSEL](https://github.com/dabacon/qsel) -  Quantum programming language putting entanglement and superposition front and center.
 - [sapi_dimod](https://github.com/dwavesystems/dwave_sapi_dimod) - [Dimod](https://github.com/dwavesystems/dimod) wrapper for D-Wave's Solver API (SAPI).
 - [Squankum](https://github.com/jeffwass/Squankum) - Visual Java quantum simulator.
+- [C-to-D-Wave](https://github.com/lanl/c2dwave) - Compile a very small subset of C to a D-Wave Hamiltonian function
 
 ## Contributing
 See the [contribution guidelines](CONTRIBUTING.md/#readme).
